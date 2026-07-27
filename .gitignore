@@ -1,0 +1,81 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Chrome profiles
+chrome_profile_*/
+chrome_profile_*
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project specific
+*.txt
+!requirements.txt
+!proxies.txt
+*.bat
+*.sh
+!run.bat
+!run.sh
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Database
+*.db
+*.sqlite
+
+# Environment variables
+.env
+.env.local
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+cover/
+
+# Selenium
+geckodriver.log
+chromedriver.log
+
+# Python profiling
+*.prof

@@ -1,0 +1,5 @@
+selenium==4.15.2
+undetected-chromedriver==3.5.4
+webdriver-manager==4.0.1
+fake-useragent==1.4.0
+urllib3==2.1.0
