@@ -39,6 +39,6 @@
 ### Method 1: Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/vidaibot-pro.git
+git clone https://github.com/Adnan-Imam0/vidaibot-pro.git
 cd vidaibot-pro
 pip install -r requirements.txt
